@@ -1,0 +1,4 @@
+<div class="banner-wrap">
+  <input class="ipt" placeholder="在这里输入留言内容" />
+  <button class="btn">发送</button>
+</div>
